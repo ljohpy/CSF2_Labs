@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Student\Documents\Visual Studio 2022\Visual Studio 2022\Projects\03_CSF2\CSF2_Labs\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
